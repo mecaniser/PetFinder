@@ -3,6 +3,16 @@ $(document).ready(function () {
 $(".catLoad").hide();
 // Side Nav Tean infi
 $('.sidenav').sidenav();
+//Floating Contact Git hub 
+$('.fixed-action-btn').floatingActionButton({
+  direction :"right",
+  hoverEnabled: false
+});
+//Tooltip For Contact info Name
+$('.tooltipped').tooltip({
+  position: "top",
+  margin:5
+});
 
   function populateCats() {
     $.ajax({
