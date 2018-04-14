@@ -9,19 +9,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jzdulin/PetFinder.git"
+    "url": "git+https://github.com/mecaniser/PetFinder.git"
   },
   "keywords": [
     "pet",
     "petFinder",
-    "cat"
+    "cat",
+    "dog"
   ],
   "author": "Sergio Burca, Josh Dulin, Taddes Korris, Philo Mina",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jzdulin/PetFinder/issues"
+    "url": "https://github.com/mecaniser/PetFinder/issues"
   },
-  "homepage": "https://github.com/jzdulin/PetFinder#readme",
+  "homepage": "https://github.com/mecaniser/PetFinder#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
     "bootstrap-vue": "^2.0.0-rc.6",
@@ -31,7 +32,6 @@
     "mysql2": "^1.5.3",
     "path": "^0.12.7",
     "sequelize": "^4.37.6",
-    "start": "^5.1.0",
     "vue": "^2.5.16"
   },
   "devDependencies": {}
