@@ -28,7 +28,7 @@ ____
 * [**Express Server**](https://expressjs.com/) |
 * [**MySQL**](https://www.mysql.com/) |\
 * [**Heroku for deployment**](https://www.heroku.com/platform) |
-* `HTML`, ``CSS``
+* `HTML`, ``CSS`` , `Moment.js`
 
 *New technology*
 *  [`Materialize`](http://materializecss.com/) |
@@ -36,7 +36,7 @@ ____
 **Future Development**
 *  [**Authentication protocols (Passport)**](http://www.passportjs.org/docs/authenticate/) |
 *  _More user Interaction_
-*  _Dog PetFinder_
+*  _Dog PetFinder_ `or similar`
 
 ## Authors
 ![pic](http://www.alyvea.com/images/presentation-icon.png)
