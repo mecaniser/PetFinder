@@ -4,7 +4,7 @@
 
 **Pet finder is a dynamic application that connects to a database on cats.  The database contains information on most cat breeds, including color, size, weight, behavioral attributes, feeding recommendations and other relevant details. Various links and API connections will help populate the website with relevant data.**
 
-> Click  [PetIT]() to test app
+> Click  [PetIT](https://morning-plains-55570.herokuapp.com/#) to test app
 
 **Purpose:** _PetFinder is intended to provide users with relevant information on any given breed of cat. Whether a user is interested in adopting a pet or learning more about their pet’s breed, this application contains applicable and practical data.  Furthermore, the application provides users the opportunity to connect to a community of owners and contribute their own data and experiences, therefore enhancing the user experience for all._
 
@@ -16,7 +16,7 @@ ____
 
 ## You can test the app 
 
-**`click`** [**`PetIT`**]() **` link so you can test the app.`** 
+**`click`** [**`PetIT`**](https://morning-plains-55570.herokuapp.com/#) **` link so you can test the app.`** 
 
 ## Technologies to be used
 
