@@ -19,9 +19,9 @@
   "author": "Sergio Burca, Josh Dulin, Taddes Korris, Philo Mina",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jzdulin/PetFinder/issues"
+    "url": "https://github.com/mecaniser/PetFinder/issues"
   },
-  "homepage": "https://github.com/jzdulin/PetFinder#readme",
+  "homepage": "https://github.com/mecaniser/PetFinder#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
     "bootstrap-vue": "^2.0.0-rc.6",
