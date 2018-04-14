@@ -1,7 +1,7 @@
 {
   "name": "petfinder",
   "version": "1.0.0",
-  "description": "App to find data on all breeds of cats and dogs, contribute to community database of pet owners.",
+  "description": "App to find data on all breeds of cats, contribute to community database of pet owners.",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -14,8 +14,7 @@
   "keywords": [
     "pet",
     "petFinder",
-    "cat",
-    "dog"
+    "cat"
   ],
   "author": "Sergio Burca, Josh Dulin, Taddes Korris, Philo Mina",
   "license": "ISC",
@@ -32,6 +31,8 @@
     "mysql2": "^1.5.3",
     "path": "^0.12.7",
     "sequelize": "^4.37.6",
+    "start": "^5.1.0",
     "vue": "^2.5.16"
-  }
+  },
+  "devDependencies": {}
 }
