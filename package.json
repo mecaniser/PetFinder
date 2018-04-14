@@ -27,5 +27,17 @@
   "bugs": {
     "url": "https://github.com/mecaniser/PetFinder/issues"
   },
+  "homepage": "https://github.com/mecaniser/PetFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "bootstrap-vue": "^2.0.0-rc.6",
+    "express": "^4.16.3",
+    "fs": "0.0.1-security",
+    "mysql": "^2.15.0",
+    "mysql2": "^1.5.3",
+    "path": "^0.12.7",
+    "sequelize": "^4.37.6",
+    "vue": "^2.5.16"
+  },
   "homepage": "https://github.com/mecaniser/PetFinder#readme"
 }
