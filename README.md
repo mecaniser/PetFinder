@@ -30,7 +30,7 @@ ____
 * [**Heroku for deployment**](https://www.heroku.com/platform) |
  >`HTML`, ``CSS`` , `Moment.js`
  
- ![NPM](./public/assets/images/npm2.png) ![_BASH terminal_](./public/assets/images/Default_images/bash.png) ![**jQuery**](./public/assets/images/Default_images/jquery.png) ![**Node.js**](./public/assets/images/Default_images/nodejs.png) ![**Express Server**](./public/assets/images/Default_images/expressjs.png) ![**MySQL & ORM**](./public/assets/images/Default_images/mysql.png) ![**Heroku for deployment**](./public/assets/images/Default_images/heroku.png) ![`HTML`](./public/assets/images/Default_images/html5.png) ![``CSS``](./public/assets/images/Default_images/css.png) ![_`Materialize`_ ](./public/assets/images/Default_images/materialize.png)(http://materializecss.com/) ![moment.js](./public/assets/images/Default_images/momentjs.png)
+ ![NPM](./public/assets/images/npm2.png) ![_BASH terminal_](./public/assets/images/Default_images/bash.png) ![**jQuery**](./public/assets/images/Default_images/jquery.png) ![**Node.js**](./public/assets/images/Default_images/nodejs.png) ![**Express Server**](./public/assets/images/Default_images/expressjs.png) ![**MySQL & ORM**](./public/assets/images/Default_images/mysql.png) ![**Heroku for deployment**](./public/assets/images/Default_images/heroku.png) ![`HTML`](./public/assets/images/Default_images/html5.png) ![``CSS``](./public/assets/images/Default_images/css.png) ![_`Materialize`_ ](./public/assets/images/Default_images/materialize.png) [](http://materializecss.com/) ![moment.js](./public/assets/images/Default_images/momentjs.png)
 
 *New technology*
 *  [`Materialize`](http://materializecss.com/) |
