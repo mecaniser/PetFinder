@@ -40,7 +40,7 @@ ____
 *  _More user Interaction_
 *  _Dog PetFinder_ `or similar`
 
-### App Iluustration
+### App Illustration
 
 ![illustration](./public/assets/images/CapturePet.PNG)
 
