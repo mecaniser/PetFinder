@@ -41,6 +41,10 @@ ____
 *  _More user Interaction_
 *  _Dog PetFinder_ `or similar`
 
+### App Iluustration
+
+![illustration](./public/assets/images/CapturePet.png)
+
 ## Authors
 ![pic](http://www.alyvea.com/images/presentation-icon.png)
 > **Taddes Korris** [GitHub](https://github.com/taddes)
