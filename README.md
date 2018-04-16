@@ -41,15 +41,17 @@ ____
 *  _Dog PetFinder_ `or similar`
 
 ### App Illustration
-
+---
 ![illustration](./public/assets/images/CapturePet.PNG)
-
+---
+![illustration](./public/assets/images/Default_images/CapturePetL.PNG)
+---
 ![illustration](./public/assets/images/Default_images/CapturePetM.PNG)
-
+---
 ![illustration](./public/assets/images/Default_images/CapturePetM1.PNG)
-
+---
 ![illustration](./public/assets/images/Default_images/CapturePetM2.PNG)
-
+---
 ## Authors
 ![pic](http://www.alyvea.com/images/presentation-icon.png)
 > **Taddes Korris** [GitHub](https://github.com/taddes)
