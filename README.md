@@ -26,7 +26,7 @@ ____
 * [**SEQuelize**](http://docs.sequelizejs.com/) |
 * [**Node.js**](https://nodejs.org/en/) |
 * [**Express Server**](https://expressjs.com/) |
-* [**MySQL**](https://www.mysql.com/) |\
+* [**MySQL**](https://www.mysql.com/) |
 * [**Heroku for deployment**](https://www.heroku.com/platform) |
  >`HTML`, ``CSS`` , `Moment.js`
  
@@ -40,9 +40,15 @@ ____
 *  _More user Interaction_
 *  _Dog PetFinder_ `or similar`
 
-### App Iluustration
+### App Illustration
 
 ![illustration](./public/assets/images/CapturePet.PNG)
+
+![illustration](./public/assets/images/Default_images/CapturePetM.PNG)
+
+![illustration](./public/assets/images/Default_images/CapturePetM1.PNG)
+
+![illustration](./public/assets/images/Default_images/CapturePetM2.PNG)
 
 ## Authors
 ![pic](http://www.alyvea.com/images/presentation-icon.png)
