@@ -42,7 +42,7 @@ ____
 
 ### App Iluustration
 
-![illustration](./public/assets/images/CapturePet.png)
+![illustration](./public/assets/images/CapturePet.PNG)
 
 ## Authors
 ![pic](http://www.alyvea.com/images/presentation-icon.png)
