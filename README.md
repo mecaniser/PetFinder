@@ -31,7 +31,7 @@ ____
  >`HTML`, ``CSS`` , `Moment.js`
  
  
- ![NPM]("/public/assets/images/Default_images/npm2.png)
+ ![NPM]("./public/assets/images/npm2.png)
 
 *New technology*
 *  [`Materialize`](http://materializecss.com/) |
